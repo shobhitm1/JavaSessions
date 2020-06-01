@@ -13,7 +13,7 @@ public class SmallestAndLargest {
 		for(int i=1;i<num.length;i++) {
 			if(largest<num[i]) {
 				largest=num[i];
-			//	 j = i;
+				 j = i;
 			}
 			else if(num[i]<smallest) {
 			smallest=num[i];

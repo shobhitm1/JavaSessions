@@ -1,6 +1,6 @@
  package javasessions;
 
-public class ReverseInteger {
+public class reverseinteger {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

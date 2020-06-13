@@ -1,3 +1,0 @@
-# JavaSessions
-
-Core Java Programs

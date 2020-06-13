@@ -1,6 +1,6 @@
 package javasessions;
 
-public class FindMissingNumber {
+public class FindMissingNUmber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

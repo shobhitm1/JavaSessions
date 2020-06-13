@@ -23,9 +23,8 @@ public class FindCommonElements {
 		//2nd Method
 		Integer[] array1 = {9, 4, 6, 2, 10, 10};
         Integer[] array2 = {14, 3, 6, 9, 10, 15, 17, 9};                    
-        @SuppressWarnings("unchecked")
-		Set hashSet = new HashSet<Integer>(Arrays.asList(array1)); 
-        Set<Integer> commonElements = new HashSet();        
+        Set hashSet = new HashSet<Integer>(Arrays.asList(array1)); 
+        Set<Integer> commonElements = new HashSet<Integer>();        
         for (int i = 0; i < array2.length; i++) {
             if (hashSet.contains(array2[i])) {
                 commonElements.add(array2[i]);

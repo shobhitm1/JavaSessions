@@ -7,7 +7,7 @@ import java.util.Set;
 public class DuplicateWordsinJava {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		String str="Java is Java best language is java";
 		String str1="Python is Python not Java should Java but Python";
 		findDupilicateWords(str);findDupilicateWords(str1);

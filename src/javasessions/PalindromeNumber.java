@@ -24,6 +24,7 @@ public class PalindromeNumber {
 			sum=(sum*10)+rev;
 			
 		}
+		//System.out.println(num);
 		if(temp==sum) {
 			System.out.println("Palindrome Number");
 		}
